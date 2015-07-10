@@ -1,0 +1,2 @@
+/home/tv/cmake/t3/build/lib/CMakeFiles/hello.dir
+/home/tv/cmake/t3/build/lib/CMakeFiles/hello_static.dir
